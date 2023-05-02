@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  *Learning :* Software Development :zap:
+-  *Learning :* Game Development :zap:
 -  *Languages :* JS, CSS, ReactJS, Unity, C#
 -  *Hobbies :* Reading Books 📖
  
