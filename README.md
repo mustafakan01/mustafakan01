@@ -6,7 +6,6 @@
 
 -  *Learning :* Game Development :zap:
 -  *Languages :* JS, CSS, ReactJS, Unity, C#
--  *Hobbies :* Reading Books 📖
  
  
  
