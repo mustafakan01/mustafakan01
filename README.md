@@ -1,5 +1,5 @@
 # 💫 About Me:
-.net developer
+Software Developer
 
 
 ## 🌐 Socials:
