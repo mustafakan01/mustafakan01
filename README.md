@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mustafakan01](https://github.com/mustafakan01)
 
-- 📝 I regularly write articles on [https://linktr.ee/halitmustafakan](https://linktr.ee/halitmustafakan)
-
 - 📫 How to reach me **mustafakan242@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/halitmustafakan](https://linktr.ee/halitmustafakan)
